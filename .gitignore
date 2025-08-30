@@ -13,23 +13,3 @@ instance/
 *.db
 *.log
 uploads/ # If you have a directory for user uploads
-
-# Editor/IDE files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
-
-# Database files
-instance/*.sqlite
-*.db
-
-# Log files
-*.log
-
-# Environment variables
-.env
-
-# Uploaded files
-uploads/
-media/
