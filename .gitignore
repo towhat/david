@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Flask stuff:
+instance/
+.webassets-cache
+*.sqlite3
+*.db
+*.log
+uploads/ # If you have a directory for user uploads
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Database files
+instance/*.sqlite
+*.db
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Uploaded files
+uploads/
+media/
